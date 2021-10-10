@@ -17,3 +17,6 @@
 5. Automate Boring Stuff With Python
 - ```https://automatetheboringstuff.com/```
 
+6. Async Python:
+- `https://docs.python.org/3/library/asyncio.html`
+
